@@ -20,3 +20,6 @@ This repository documents my journey of learning GitHub.
 - Created my GitHub repository
 - Cloned the repository to my D: drive
 - Opened the project in VS Code
+## Branch Practice
+
+I created my first Git branch!
