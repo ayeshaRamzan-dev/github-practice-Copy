@@ -13,3 +13,10 @@ I am a BSCS student learning software development.
 
 ## Purpose
 This repository documents my journey of learning GitHub.
+
+## My Learning Progress
+
+- Installed Git
+- Created my GitHub repository
+- Cloned the repository to my D: drive
+- Opened the project in VS Code
